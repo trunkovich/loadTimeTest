@@ -1,0 +1,14 @@
+npm-debug.log
+.DS_Store
+.idea
+
+*.js.map
+app/**/*.js
+app/**/*.css
+hooks/
+report/
+lib/
+node_modules/
+platforms/
+tmp/
+typings/
